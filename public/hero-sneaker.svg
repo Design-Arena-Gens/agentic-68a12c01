@@ -1,0 +1,26 @@
+<svg width="480" height="320" viewBox="0 0 480 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" rx="42" fill="#0F0F0E"/>
+  <g filter="url(#filter0_f_2_2)">
+    <ellipse cx="240" cy="250" rx="160" ry="36" fill="#000" fill-opacity="0.55"/>
+  </g>
+  <path d="M119 184C124.5 149.7 148.6 120.4 178.3 108.4L284.7 67.5C320.1 53.3 360.1 71.4 374.3 107C375.4 109.8 376.2 112.7 376.9 115.6L391.8 179.5C398.8 209.6 379.7 239.7 349 246.1C281.3 260.2 210.6 260 174.2 252.3C139.5 245 109.2 217.5 119 184Z" fill="url(#paint0_linear_2_2)"/>
+  <path d="M147.5 178.7C156.3 149.9 180.2 127.5 209.9 117.9L292.8 91C321.1 82.3 350.9 98.4 359.6 126.7L367.6 152.5C378.7 189 354.1 226.6 315.6 234.5C260 245.7 200.5 245.5 171.9 239.5C144.7 233.8 138 205.1 147.5 178.7Z" fill="#121212" fill-opacity="0.22"/>
+  <path d="M153.9 175.9C160.3 154.5 179.4 137.6 202.1 130.2L290.5 101.6C315.7 93.4 340.7 107 347.3 131.9L355.9 163.7C364.5 196.2 344.1 228.9 312 235.4C263.6 245 211.8 244.8 186.9 239.6C163.1 234.7 147 203.2 153.9 175.9Z" stroke="#F8C759" stroke-width="7.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M167.2 171.8C173 154 190 140.5 209.5 136.2L283.8 120.1C305.7 115.3 326.8 128.8 332.3 150.5L336.7 168C343.1 194 326.7 219.1 301.1 223.7C265.9 229.9 229.5 229.7 211.1 226C193.7 222.6 182 198.4 186.7 179.5" stroke="#6DC5D9" stroke-width="6.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M287 149.9C308.4 149.9 326 167.4 326 188.9C326 198.4 322.6 207 316.7 213.8C308.9 222.7 297.3 226.7 285.6 225.3C267.2 223 250.8 209.5 250.8 188.9C250.8 167.4 268.4 149.9 289.8 149.9H287Z" fill="#F5F3ED"/>
+  <path d="M222.1 209.2C208.7 206.8 198.2 196 195.3 182.7C194.9 180.8 197 179.3 198.7 180.2C208.7 185.4 225 193.1 242.4 196.6C261.3 200.4 283.6 199.6 304 194.6C305.5 194.2 306.8 195.6 306.2 197C300.4 210.6 286 220.3 269.5 222.3C253.6 224.3 236.4 222 222.1 209.2Z" fill="#0F0F0E"/>
+  <path d="M205.9 167.2L277 147.5" stroke="#F8C759" stroke-width="4" stroke-linecap="round"/>
+  <path d="M198 188.1L256.5 171.8" stroke="#6DC5D9" stroke-width="4" stroke-linecap="round"/>
+  <defs>
+    <filter id="filter0_f_2_2" x="40" y="194" width="400" height="112" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="16" result="effect1_foregroundBlur_2_2"/>
+    </filter>
+    <linearGradient id="paint0_linear_2_2" x1="132.4" y1="92.4" x2="364.9" y2="269.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#151515"/>
+      <stop offset="0.52" stop-color="#262626"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+  </defs>
+</svg>

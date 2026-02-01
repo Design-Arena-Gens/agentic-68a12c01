@@ -1,0 +1,20 @@
+<svg width="520" height="400" viewBox="0 0 520 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="400" rx="36" fill="#111110"/>
+  <g filter="url(#filter0_f_3_3)">
+    <circle cx="120" cy="120" r="120" fill="#6DC5D9" fill-opacity="0.18"/>
+    <circle cx="380" cy="240" r="150" fill="#F8C759" fill-opacity="0.16"/>
+  </g>
+  <path d="M72 104C72 96.268 78.268 90 86 90H212C219.732 90 226 96.268 226 104V230C226 237.732 219.732 244 212 244H86C78.268 244 72 237.732 72 230V104Z" fill="#161614" stroke="#F8C759" stroke-opacity="0.2" stroke-width="2.4"/>
+  <path d="M292 156C292 148.268 298.268 142 306 142H418C425.732 142 432 148.268 432 156V268C432 275.732 425.732 282 418 282H306C298.268 282 292 275.732 292 268V156Z" fill="#161614" stroke="#6DC5D9" stroke-opacity="0.25" stroke-width="2.4"/>
+  <path d="M144 182C144 169.85 153.85 160 166 160H206C218.15 160 228 169.85 228 182C228 194.15 218.15 204 206 204H166C153.85 204 144 194.15 144 182Z" fill="#1B1B19" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="2"/>
+  <path d="M316 188C316 175.85 325.85 166 338 166H378C390.15 166 400 175.85 400 188C400 200.15 390.15 210 378 210H338C325.85 210 316 200.15 316 188Z" fill="#1B1B19" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="2"/>
+  <path d="M118 280C118 263.431 131.431 250 148 250H224C240.569 250 254 263.431 254 280C254 296.569 240.569 310 224 310H148C131.431 310 118 296.569 118 280Z" fill="#161614" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M298 92C298 83.1634 305.163 76 314 76H412C420.837 76 428 83.1634 428 92V140C428 148.837 420.837 156 412 156H314C305.163 156 298 148.837 298 140V92Z" fill="#161614" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <defs>
+    <filter id="filter0_f_3_3" x="-80" y="-80" width="680" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_3_3"/>
+    </filter>
+  </defs>
+</svg>
